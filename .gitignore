@@ -8,6 +8,8 @@ __pycache__/
 
 .DS_Store
 
+config.js
+
 # Distribution / packaging
 .Python
 build/
